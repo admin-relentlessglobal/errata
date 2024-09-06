@@ -1,6 +1,6 @@
 # HELLO WORLD!
 
-This is jus an *example** file
+This is jusT an *example** file
 which is used by the Errata
 example application.
 
